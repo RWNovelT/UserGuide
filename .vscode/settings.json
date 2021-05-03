@@ -1,0 +1,13 @@
+{
+    "spellright.language": [
+        "en",
+        "fr"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "restructuredtext"
+    ],
+    "restructuredtext.confPath": "${workspaceFolder}"
+}
